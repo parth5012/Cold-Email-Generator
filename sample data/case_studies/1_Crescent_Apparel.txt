@@ -1,0 +1,14 @@
+Case Study 1: Modern E-Commerce Platform for Crescent Apparel
+
+Client Industry: Retail Fashion (Mid-Market)
+--------------------------------------------------
+Crescent Apparel, a growing retail fashion brand, faced challenges with their outdated e-commerce system. Their legacy monolith suffered from slow page loads, poor mobile responsiveness, and an inability to handle flash sales efficiently. Inventory synchronization between their online and offline stores was manual, leading to frequent stock mismatches.
+
+Solution Implemented:
+We developed a fully headless e-commerce platform using React + Next.js for server-side rendering, supported by Node.js (Express) microservices and PostgreSQL as the core database. Redis caching improved data retrieval, while Shopify was integrated for inventory management and Stripe for secure payments. We introduced personalized recommendations and A/B testing via Segment + Optimizely.
+
+Business Impact:
+- Page load time reduced from 3.8s → 1.5s (≈60% improvement)
+- Cart abandonment reduced by 22%
+- Conversion rate increased by 27% within 90 days of launch
+- Average order value grew 12% due to personalized suggestions

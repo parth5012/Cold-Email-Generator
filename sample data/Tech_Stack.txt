@@ -1,0 +1,22 @@
+Tech Stack Expertise
+--------------------------------------------------
+Languages & Frameworks:
+- Python (Django, Flask), Java (Spring Boot), Node.js (Express, Nest), Go, Kotlin, Swift, React, Next.js, Vue, Angular, React Native, Flutter
+
+Data & ML Tools:
+- PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery, Spark, Kafka, Airflow, scikit-learn, TensorFlow, PyTorch, Hugging Face
+
+Cloud & Infrastructure:
+- AWS (EC2, ECS, EKS, Lambda, RDS, S3), Azure, GCP, Terraform, Kubernetes, Docker, Helm, Prometheus, Grafana
+
+DevOps & CI/CD:
+- GitHub Actions, GitLab CI, Jenkins, ArgoCD, FluxCD, Packer
+
+Observability & Logging:
+- ELK/EFK, Datadog, New Relic, Sentry
+
+Testing & QA:
+- Jest, Cypress, Selenium, pytest
+
+Security & Identity:
+- OAuth2, OpenID Connect, Okta, Vault, AWS IAM

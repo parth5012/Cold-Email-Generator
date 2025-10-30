@@ -1,0 +1,14 @@
+Case Study 6: Predictive Maintenance for MetroManu Industries
+
+Client Industry: Manufacturing / Industrial IoT
+--------------------------------------------------
+MetroManu Industries suffered frequent machine breakdowns, resulting in unplanned production halts. Maintenance was reactive rather than predictive, leading to high operational costs.
+
+Solution Implemented:
+We deployed IoT sensors to monitor machine parameters, streaming data through MQTT into Apache Kafka. Time-series data was stored in InfluxDB, and predictive LSTM models were trained to forecast potential failures. Dashboards built in Grafana provided real-time visibility for operators.
+
+Business Impact:
+- Unplanned downtime reduced by 47%
+- Maintenance costs dropped by 28%
+- Production throughput increased by 11%
+- ROI achieved within 8 months of deployment

@@ -1,0 +1,14 @@
+Case Study 3: Cloud Migration & Optimization for FinServ Bank
+
+Client Industry: Banking & Financial Services
+--------------------------------------------------
+FinServ Bank operated several internal applications on aging on-prem servers that caused frequent downtimes and high maintenance costs. The IT team struggled with scalability and lacked automated deployment pipelines.
+
+Solution Implemented:
+We migrated 12 applications to AWS using a combination of EC2 and EKS for container orchestration. The databases were migrated to RDS, and Terraform was used for Infrastructure as Code. CI/CD pipelines were set up via GitHub Actions, along with centralized logging (ELK stack) and real-time monitoring (Prometheus + Grafana).
+
+Business Impact:
+- Infrastructure costs reduced by 38% in the first year
+- Deployment time reduced by 85% (from days to under an hour)
+- System availability increased to 99.98%
+- Incident detection time reduced by 70%

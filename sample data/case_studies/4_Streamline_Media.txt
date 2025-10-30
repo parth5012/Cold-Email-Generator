@@ -1,0 +1,14 @@
+Case Study 4: AI-Powered Recommendation Engine for Streamline Media
+
+Client Industry: OTT / Streaming
+--------------------------------------------------
+Streamline Media sought to improve user engagement and retention through better content recommendations. Their previous system used simple popularity-based sorting with minimal personalization.
+
+Solution Implemented:
+We designed a hybrid recommendation system combining collaborative filtering, content embeddings (BERT), and contextual bandit algorithms for personalization. The data pipeline was built with Apache Kafka and Apache Spark, with model training in TensorFlow and deployment via Kubernetes.
+
+Business Impact:
+- Average watch time per user increased by 21%
+- 30-day user retention improved by 14%
+- Recommendation click-through rate rose by 42%
+- Revenue per user grew by 9%

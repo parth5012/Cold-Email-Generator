@@ -1,0 +1,14 @@
+Case Study 7: Secure Mobile Banking App for NeoBankX
+
+Client Industry: FinTech / Digital Banking
+--------------------------------------------------
+NeoBankX needed a feature-rich, secure mobile banking solution to onboard customers faster while maintaining strict compliance with financial regulations.
+
+Solution Implemented:
+We built native mobile apps using Swift (iOS) and Kotlin (Android). The backend, developed with Java Spring Boot, implemented tokenized APIs and OAuth2-based multi-factor authentication. PCI-compliant payment modules were integrated, and automated compliance checks were added to CI/CD.
+
+Business Impact:
+- New account signups increased 4x post-launch
+- Fraud incidents reduced by 60%
+- Mobile app achieved a 4.7 average rating on app stores
+- Customer NPS improved by 28%

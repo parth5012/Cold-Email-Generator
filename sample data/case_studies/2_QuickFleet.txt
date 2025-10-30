@@ -1,0 +1,14 @@
+Case Study 2: Real-Time Delivery Tracking App for QuickFleet
+
+Client Industry: Logistics / Last-Mile Delivery
+--------------------------------------------------
+QuickFleet, a logistics startup managing same-day deliveries, needed a mobile platform that could optimize driver routes and give customers live visibility of their parcels. Their previous setup relied heavily on manual updates and phone-based coordination.
+
+Solution Implemented:
+Our team built native mobile apps using React Native with real-time location streaming via WebSockets. We integrated Mapbox APIs for optimized routing and AWS Lambda + DynamoDB for a serverless, scalable backend. Offline support ensured uninterrupted delivery updates in low-connectivity zones.
+
+Business Impact:
+- On-time deliveries improved by 18%
+- Driver idle time reduced by 35%
+- Delivery status queries dropped by 48%
+- Average delivery cycle time reduced by 12%

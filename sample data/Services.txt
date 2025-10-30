@@ -1,0 +1,33 @@
+Software Services Overview
+--------------------------------------------------
+1. Web Development
+   - Responsive web apps, microservices, and headless CMS implementations.
+   - Tech: React, Next.js, Node.js, Django, Flask.
+   - Focus: Performance, accessibility, and maintainable architectures.
+
+2. Mobile App Development
+   - Native (Swift, Kotlin) and cross-platform (React Native, Flutter) applications.
+   - Emphasis on smooth UX, offline-first design, and analytics integration.
+
+3. Cloud Migration & Architecture
+   - Migrate legacy workloads to AWS, Azure, or GCP.
+   - Implement IaC (Terraform), CI/CD, autoscaling, and cost optimization.
+
+4. AI / Machine Learning
+   - Data engineering, model training, and production deployment (MLOps).
+   - Use cases: Recommendations, forecasting, NLP, and computer vision.
+
+5. DevOps & SRE
+   - CI/CD automation, Kubernetes orchestration, and infrastructure observability.
+   - Focus: Uptime, reliability, and release velocity.
+
+6. Data Engineering & Business Intelligence
+   - ETL pipelines, data warehouses, and real-time analytics dashboards.
+   - Tools: Airflow, Snowflake, BigQuery, Looker, Power BI.
+
+7. Product & UX Design
+   - User research, wireframes, and prototypes for product validation.
+   - Outcome: Improved activation and retention.
+
+8. Cybersecurity & Compliance
+   - Security audits, automated testing, and compliance readiness (SOC2, PCI).

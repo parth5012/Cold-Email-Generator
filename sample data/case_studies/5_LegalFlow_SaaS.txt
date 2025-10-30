@@ -1,0 +1,13 @@
+Case Study 5: Automated Onboarding for LegalFlow SaaS
+
+Client Industry: LegalTech / B2B SaaS
+--------------------------------------------------
+LegalFlow faced low activation rates during trial periods due to a lengthy, manual onboarding process. Users struggled to reach the “first value moment,” leading to low conversion from free to paid tiers.
+
+Solution Implemented:
+We introduced automated onboarding workflows with interactive tooltips, in-app walkthroughs, and integrated analytics using Segment and Mixpanel. Backend was built with Ruby on Rails, while the React-based frontend enabled dynamic onboarding flows and user progress tracking.
+
+Business Impact:
+- Time-to-first-value reduced by 65%
+- Free-to-paid conversion rate increased by 32%
+- Early churn dropped by 18%

@@ -1,0 +1,13 @@
+Case Study 8: Data-Driven BI Transformation for RetailCo
+
+Client Industry: Retail / Omnichannel
+--------------------------------------------------
+RetailCo managed multiple sales channels but lacked unified data visibility. Each team had different KPIs, and reports took up to 24 hours to generate.
+
+Solution Implemented:
+We consolidated data pipelines into a centralized warehouse using Snowflake and orchestrated ETL workflows with Apache Airflow. Dashboards were built in Looker, and a semantic layer ensured consistent KPIs across departments. Data governance frameworks were established for long-term scalability.
+
+Business Impact:
+- Report generation time reduced from 24 hours → 15 minutes
+- Data-driven promotions boosted ROI by 18%
+- Report preparation time for analysts reduced by 72%
