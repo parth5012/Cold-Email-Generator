@@ -1,0 +1,8 @@
+In the software services industry, sales reps will write a cold email to their potential client based on job posting on client's website. We will automate this process of writing cold email using Llama LLM and Retrieval Augmented Generation (a.k.a. RAG)
+Tech Stack: Llama, Chromadb, Langchain and Streamlit
+Customization Ideas:
+a.
+Add dynamic customization options to the Streamlit UI for users to select the desired email tone and call-to-action, which would then dynamically modify the LLM's email generation prompt
+b.
+In this project, my_portfolio.csv that we insert into chromadb contains only tech stack and portfolio link. Add another portfolio which is specific to industry (e.g. retail, healthcare, finance etc.) and then derive the industry of a client to whom
+you are sending email and send them industry relevant portfolio as well in addition to tech portfolio
